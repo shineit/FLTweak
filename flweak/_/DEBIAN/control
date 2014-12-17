@@ -1,0 +1,10 @@
+Package: com.fanlv.flweak
+Name: flweak
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: FanLv
+Author: FanLv
+Section: Tweaks
+Version: 0.0.1-2
+Installed-Size: 16
