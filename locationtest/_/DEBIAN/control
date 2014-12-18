@@ -1,0 +1,10 @@
+Package: com.fanlv.locationtest
+Name: LocationTest
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: FanLv
+Author: FanLv
+Section: Tweaks
+Version: 0.0.1-16
+Installed-Size: 16
